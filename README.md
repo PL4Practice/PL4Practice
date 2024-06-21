@@ -1,7 +1,8 @@
 
 - 💻 The account signed up for classes.
 - 🌱 I’m currently learning:
-- 
+  - BE7022 Introduction to Biostatistics | COM, UC
+  - R Programming | Coursera, JHU
 
 
 <!---

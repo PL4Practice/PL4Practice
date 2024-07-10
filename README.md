@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning:
   - BE7022 Introduction to Biostatistics | COM, UC
   - R Programming | Coursera, JHU
+  - 《R语言编程-基于tidyverse》｜ 张敬信
 
 
 <!---
